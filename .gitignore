@@ -1,0 +1,22 @@
+﻿# Idea
+.idea
+*.iml
+*.iws
+*.info
+*.properties
+*.jar
+properties.*
+
+# JavaRush
+/5.OnlineInternship
+/JavaRushPlugin.properties
+/JavaRushTasks.iml
+/Instruction.png
+/out.log
+/out.log.*
+/exit
+/docs
+/out/
+
+# Mac OS
+.DS_Store
